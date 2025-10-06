@@ -7,7 +7,7 @@ st.title(":mortar_board: Carrera como Creador de Contenido")
 st.write("Robleis alcanzó la fama en YouTube con sus gameplays, especialmente de Minecraft y otros juegos populares.")
 
 # Imagen animada (GIF)
-st.image("minecraftgif.GIF", caption="Minecraft")  
+st.image("minecraftgif.gif", caption="Minecraft")  
 
 # Más información y otras imágenes
 st.write("Actualmente cuenta con millones de suscriptores y transmite en diversas plataformas.")
@@ -16,3 +16,4 @@ st.image("kickk.WEBP", caption="Plataforma de stream")  # Imagen de Kick u otra 
 
 # Audio de fondo o efecto
 st.audio("sonidomine.mp3")  
+
