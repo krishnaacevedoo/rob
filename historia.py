@@ -10,11 +10,12 @@ st.write(
 )
 
 # Imagen de sus inicios
-st.image("robledo.GIF", caption="Rob en sus inicios")
+st.image("robledo.gif", caption="Rob en sus inicios")
 
 # Continuación de su evolución
 st.write("Con el tiempo, fue explorando distintos estilos de contenido y conectando con millones de fanáticos.")
 
 # Imagen de un evento con fans
 st.image("robbfan.jpg", caption="Evento de Rob")
+
 
