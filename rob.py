@@ -31,5 +31,6 @@ st.write(
 )
 
 # GIF o imagen de presentación
-st.image("gifsrobleiss.GIF", caption="Momentos destacados de Robleis")
+st.image("gifsrobleiss.gif", caption="Momentos destacados de Robleis")
+
 
