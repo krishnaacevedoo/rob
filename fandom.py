@@ -10,5 +10,6 @@ st.write(
 )
 
 # Mostrar una imagen con su respectivo pie de foto
-st.image("robzombi.JPG", caption="Libro de Rob")  
+st.image("robzombi.jpg", caption="Libro de Rob")  
+
 
