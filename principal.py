@@ -9,10 +9,11 @@ st.set_page_config(
 )
 
 # Configuración de Logo
-st.logo(
+st.image(
     "rob logo.JPG",
 )
 
 pg = st.navigation(["rob.py", "historia.py", "carrera.py", "música.py", "fandom.py", "quienes somos.py"])
 
 pg.run()
+
